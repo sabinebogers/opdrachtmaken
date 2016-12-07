@@ -31,3 +31,10 @@ Conclusie
 
 Ik denk dat animeren met Greensock een goede oplossing is voor het maken van een tour. Doordat ik de onderdelen van de animatie zelf kan maken in bijvoorbeeld Illustrator kan ik gedetailleerd te werk gaan. Vervolgens is er heel veel mogelijk wat betreft het animeren ervan.
 Het zal wat tijd kosten om te leren werken met Greensock maar ik denk dat ik er iets moois mee kan maken.
+
+UPDATE
+css animaties of greensock?
+
+links:
+http://greensock.com/transitions/
+https://greensock.com/get-started-js
